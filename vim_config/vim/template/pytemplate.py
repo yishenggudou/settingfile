@@ -8,13 +8,14 @@
     +Msn yishenggudou@msn.cn
     +Weibo http://t.sina.com/zhanghaibo
 
-    Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed under the MIT License, Version 2.0 (the "License");
 '''
 
 import os
 import sys
 import logging
 import itertools
+import shelve
 #http://docs.python.org/library/itertools.html
 from xx import xx
 
@@ -22,16 +23,19 @@ from xx import xx
 DIR_PATH = os.path.abspath(os.path.dirname(os.path.realpath(__file__)))
 NAME_FILE = os.path.relpath(__file__)
 
+db = shelve.open('/home/timger/backup/timger.db')
 
 logger = logging.getLogger('octopus.libs.%s' %NAME_FILE)
 logger.setLevel(logging.DEBUG)
 
-sys.stdout = BASE_STDOUT
-sys.path = sys.path+[]
 
+
+__author__ = 'timger & yishenggudou@gmail.com'
+__license__ = 'MIT'
+__version__ = (0,0,0)
 
 __all__ = ['xx','xxx']
-__version__ = (0,0,0)
+
 
 assert Expression[, Arguments]
 assert (Temperature >= 0),"Colder than absolute zero!"
