@@ -121,3 +121,5 @@ autocmd FileType python set ft=python.django " For SnipMate
 autocmd FileType html set ft=htmldjango.html " For SnipMate
 
 autocmd BufNewFile *.py    0r ~/.vim/template/pytemplate.py
+autocmd BufNewFile *.js    0r ~/.vim/template/myjs.js
+au BufRead,BufNewFile jquery.*.js set ft=javascript syntax=jquery
