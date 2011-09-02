@@ -34,7 +34,7 @@ ff02::3 ip6-allhosts
 #203.208.46.146 code.google.com
 #66.249.89.104 code.google.com 
 
-203.208.46.146 code.google.com
+
 
 #chrome 同步应该可以了（已亲测，可同步） 
 203.208.46.180 services.google.com 
