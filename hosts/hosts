@@ -22,7 +22,7 @@ ff02::3 ip6-allhosts
 50.17.226.2 timger.info
 192.168.8.9 ticket.101xd.com
 192.168.8.9 bak.101xd.com
-
+192.168.8.9 tuan.101xd.com
 #72.14.204.101 code.google.com
 #74.125.53.9 code.google.com
 #74.125.53.9 code.google.com 
@@ -53,14 +53,7 @@ ff02::3 ip6-allhosts
 209.85.147.109  smtp.gmail.com
 #
 ##WebMail
-64.233.189.18   mail.google.com
-64.233.189.19   mail.google.com
-64.233.189.83   mail.google.com
-64.233.189.18   www.gmail.com
-64.233.189.19   www.gmail.com
-64.233.189.83   www.gmail.com
-64.233.189.19   googlemail.l.google.com
-
+203.208.46.30 mail.google.com
 #google +---------------------------------
 203.208.46.29 plus.google.com 
 203.208.46.29 talkgadget.googl 
@@ -81,6 +74,28 @@ ff02::3 ip6-allhosts
 
 
 
+#Dropbox 
+208.43.202.53 www.dropbox.com 
+208.43.202.50 www.dropbox.com 
+#174.36.30.73 www.dropbox.com 
+#174.36.30.71 www.dropbox.com 
+#174.36.30.71 dl.dropbox.com 
+174.129.242.127 dl.dropbox.com 
+174.129.33.139 dl.dropbox.com 
+174.129.33.159 dl.dropbox.com 
+174.129.33.163 dl.dropbox.com 
+174.129.33.164 dl.dropbox.com 
+184.73.197.198 dl.dropbox.com 
+184.73.197.205 dl.dropbox.com 
+75.101.129.115 dl.dropbox.com 
+75.101.136.120 dl.dropbox.com 
+75.101.142.97 dl.dropbox.com 
+75.101.148.191 dl.dropbox.com 
+64.94.136.11 dns1.nettica.com 
+64.237.45.34 dns2.nettica.com 
+64.94.136.13 dns3.nettica.com 
+69.41.170.223 dns4.nettica.com 
+212.100.247.15 dns5.nettica.com 
 
 
 #GOOGLE DOC
