@@ -37,11 +37,11 @@ ff02::3 ip6-allhosts
 203.208.46.146 code.google.com
 
 #chrome 同步应该可以了（已亲测，可同步） 
-203.208.46.180 services.google.com 
-203.208.46.180 clients4.google.com 
-203.208.46.180 clients2.google.com 
-203.208.46.180 chrome.google.com 
-203.208.46.180 tools.google.com 
+#203.208.46.180 services.google.com 
+#203.208.46.180 clients4.google.com 
+#203.208.46.180 clients2.google.com 
+#203.208.46.180 chrome.google.com 
+#203.208.46.180 tools.google.com 
 #
 #
 203.208.46.29 talkgadget.google.com 
@@ -119,6 +119,58 @@ ff02::3 ip6-allhosts
 #youtube.com
 64.233.169.91 *.youtube.com
 64.233.169.93 www.youtube.com
+
+
+#google
+203.208.46.90 picasaweb.google.com
+203.208.46.90 lh1.ggpht.com
+203.208.46.90 lh2.ggpht.com
+203.208.46.90 lh3.ggpht.com
+203.208.46.90 lh4.ggpht.com
+203.208.46.90 lh5.ggpht.com
+203.208.46.90 lh6.ggpht.com
+203.208.46.90 lh6.googleusercontent.com
+203.208.46.90 lh5.googleusercontent.com
+203.208.46.90 lh4.googleusercontent.com
+203.208.46.90 lh3.googleusercontent.com
+203.208.46.90 lh2.googleusercontent.com
+203.208.46.90 lh1.googleusercontent.com
+203.208.46.90 images1-focus-opensocial.googleusercontent.com
+203.208.46.90 images2-focus-opensocial.googleusercontent.com
+203.208.46.90 images3-focus-opensocial.googleusercontent.com
+203.208.46.90 images4-focus-opensocial.googleusercontent.com
+203.208.46.90 images5-focus-opensocial.googleusercontent.com
+203.208.46.90 images6-focus-opensocial.googleusercontent.com
+203.208.46.90 s6.googleusercontent.com
+203.208.46.90 s5.googleusercontent.com
+203.208.46.90 s4.googleusercontent.com
+203.208.46.90 s3.googleusercontent.com
+203.208.46.90 s2.googleusercontent.com
+203.208.46.90 s1.googleusercontent.com
+203.208.46.90 plus.google.com
+203.208.46.90 talkgadget.google.com
+203.208.46.90 ditu.google.com
+203.208.46.90 maps-api-ssl.google.com
+203.208.46.90 mail.google.com
+203.208.46.90 docs.google.com
+203.208.46.90 spreadsheets.google.com
+203.208.46.90 gg.google.com
+203.208.46.90 pop.gmail.com
+203.208.46.90 scholar.l.google.com
+203.208.46.90 news.google.com
+203.208.46.90 video.google.com
+203.208.46.90 translate.google.com
+203.208.46.90 profiles.google.com
+203.208.46.90 www.google.com.hk
+203.208.46.90 webcache.googleusercontent.com
+203.208.46.90 www.google.com
+
+
+
+
+
+
+
 
 # FACEBOOK
 69.63.181.11 facebook.com
