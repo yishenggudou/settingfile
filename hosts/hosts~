@@ -36,7 +36,9 @@ ff02::3 ip6-allhosts
 #66.249.89.104 code.google.com 
 
 203.208.46.146 code.google.com
-
+203.208.46.29 appengine.google.com
+203.208.46.144 haiboboke.appspot.com/
+203.208.46.144 *.appspot.com
 #chrome 同步应该可以了（已亲测，可同步） 
 #203.208.46.180 services.google.com 
 #203.208.46.180 clients4.google.com 
@@ -53,6 +55,26 @@ ff02::3 ip6-allhosts
 209.85.147.109  pop.gmail.com
 209.85.147.109  smtp.gmail.com
 #
+#
+#dropbox
+199.47.217.179 dropbox.com
+184.72.243.126 dl.dropbox.com
+184.72.227.239 dl-web.dropbox.com
+208.43.202.53 dropbox.com
+50.16.186.123 dl.dropbox.com
+50.16.193.114 dl-web.dropbox.com
+208.43.202.53 dropbox.com
+184.72.234.18 dl.dropbox.com
+184.72.234.18 dl-web.dropbox.com
+208.43.202.53 dropbox.com
+184.72.245.128 dl.dropbox.com
+184.72.236.250 dl-web.dropbox.com
+#174.36.30.67 dropbox.com
+##174.36.30.71 www.dropbox.com
+##75.101.129.115 dl.dropbox.com
+##75.101.159.151 dl-web.dropbox.com
+##174.36.30.67 forums.dropbox.com
+
 ##WebMail
 203.208.46.30 mail.google.com
 #google +---------------------------------

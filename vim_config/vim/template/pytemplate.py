@@ -6,8 +6,14 @@
     +Author timger
     +Gtalk&Email yishenggudou@gmail.com
     +Msn yishenggudou@msn.cn
+<<<<<<< HEAD
     +Weibo @timger http://t.sina.com/zhanghaibo
     +twitter @yishenggudou http://twitter.com/yishenggudou
+=======
+    +Twitter http://twitter.com/yishenggudou  @yishenggudou
+    +Weibo http://t.sina.com/zhanghaibo @timger
+
+>>>>>>> 5df8223977276112aaedafd1e98444995cd47a87
     Licensed under the MIT License, Version 2.0 (the "License");
 '''
 
